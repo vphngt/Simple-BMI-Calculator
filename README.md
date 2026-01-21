@@ -1,6 +1,7 @@
 # BMI Calculator (Tkinter)
 A simple Python GUI application that calculates Body Mass Index (BMI)
-for both adults and children.
+for both adults and children. This project was developed as part of a school programming assignment to practice Python, Tkinter, and basic input validation.
+
 
 ## Features
 - Tkinter-based GUI
@@ -16,3 +17,4 @@ for both adults and children.
 ## How to Run
 ```bash
 python bmi_calculator.py
+
