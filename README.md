@@ -9,12 +9,11 @@ for both adults and children. This project was developed as part of a school pro
 - Age and gender-based classification
 - Input validation
 - Educational child BMI estimation
+  
 
-## Requirements
-- Python 3.x
-- Tkinter (included with Python)
+## Try this out yourself
+1. Download bmi_calculator.py from this repository, make sure you have Python installed.
+2. Launch the App and enter your details to see the calculator in action.
+3. Use the Reset button to quickly clear the form for a new entry.
 
-## How to Run
-```bash
-python bmi_calculator.py
 
